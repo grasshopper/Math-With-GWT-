@@ -1,0 +1,480 @@
+com.coolisland.client.gui.ScreenManager.initialize()  calling KidMathController.initialize()
+	KidMathController.getInstance() starting
+		Constructor KidMathController() starting
+			com.coolisland.client.controller.KidMathController.initialize() starting
+				com.coolisland.client.controller.KidMathController.initialize() initializing KidMathModel
+				KidMathModel.getInstance() starting
+					Constructor KidMathModel() starting
+						com.coolisland.client.model.KidMathModel.initialize() starting
+2009-10-06 21:49:59,734 [DEBUG] com.coolisland.client.model.KidMathModel.initialize() finished
+2009-10-06 21:49:59,750 [DEBUG] Constructor KidMathModel() finished
+2009-10-06 21:49:59,750 [DEBUG] com.coolisland.client.model.KidMathModel.initialize() starting
+2009-10-06 21:49:59,750 [DEBUG] com.coolisland.client.model.KidMathModel.initialize() finished
+2009-10-06 21:49:59,765 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() initializing NavigationController
+2009-10-06 21:49:59,765 [DEBUG] NavigationController.getInstance() starting
+2009-10-06 21:49:59,765 [DEBUG] Constructor NavigationController() starting
+2009-10-06 21:49:59,765 [DEBUG] com.coolisland.client.controller.NavigationController.initialize() starting
+2009-10-06 21:49:59,781 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:49:59,781 [DEBUG] com.coolisland.client.model.NavigationModel.Constructor NavigationModel() starting
+2009-10-06 21:49:59,781 [DEBUG] com.coolisland.client.model.NavigationModel.initialize() starting
+2009-10-06 21:49:59,796 [DEBUG] com.coolisland.client.model.NavigationModel.initialize() finished
+2009-10-06 21:49:59,796 [DEBUG] com.coolisland.client.model.NavigationModel.Constructor NavigationModel() finished
+2009-10-06 21:49:59,796 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:49:59,812 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 1
+2009-10-06 21:49:59,812 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:49:59,812 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:49:59,843 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,218 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 2
+2009-10-06 21:50:00,234 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,234 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,234 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,234 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 3
+2009-10-06 21:50:00,250 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,250 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,250 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,250 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 4
+2009-10-06 21:50:00,250 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,265 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,265 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,265 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 5
+2009-10-06 21:50:00,265 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,281 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,281 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,281 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 6
+2009-10-06 21:50:00,281 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,296 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,296 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,296 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 7
+2009-10-06 21:50:00,296 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,296 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,312 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,312 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 8
+2009-10-06 21:50:00,312 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,328 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,328 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,328 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 9
+2009-10-06 21:50:00,328 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,343 [DEBUG] NavigationPanel.getInstance()
+2009-10-06 21:50:00,343 [DEBUG] Constructor NavigationPanel() starting
+2009-10-06 21:50:00,359 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() starting
+2009-10-06 21:50:00,359 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() finished
+2009-10-06 21:50:00,359 [DEBUG] Constructor NavigationPanel() finished
+2009-10-06 21:50:00,375 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() starting
+2009-10-06 21:50:00,375 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() finished
+2009-10-06 21:50:00,390 [DEBUG] com.coolisland.client.controller.NavigationController.initialize() finished
+2009-10-06 21:50:00,390 [DEBUG] Constructor NavigationController() finished
+2009-10-06 21:50:00,390 [DEBUG] com.coolisland.client.controller.NavigationController.initialize() starting
+2009-10-06 21:50:00,390 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,406 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,406 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 1
+2009-10-06 21:50:00,406 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,406 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,421 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,421 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 2
+2009-10-06 21:50:00,437 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,437 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,437 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,453 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 3
+2009-10-06 21:50:00,453 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,453 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,453 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,468 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 4
+2009-10-06 21:50:00,468 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,468 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,484 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,484 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 5
+2009-10-06 21:50:00,484 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,484 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,500 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,500 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 6
+2009-10-06 21:50:00,500 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,515 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,515 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,515 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 7
+2009-10-06 21:50:00,531 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,531 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,531 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,531 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 8
+2009-10-06 21:50:00,546 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,546 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,562 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,562 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 9
+2009-10-06 21:50:00,578 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,593 [DEBUG] NavigationPanel.getInstance()
+2009-10-06 21:50:00,593 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() starting
+2009-10-06 21:50:00,593 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() finished
+2009-10-06 21:50:00,609 [DEBUG] com.coolisland.client.controller.NavigationController.initialize() finished
+2009-10-06 21:50:00,625 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() initializing NavigationPanel
+2009-10-06 21:50:00,625 [DEBUG] NavigationPanel.getInstance()
+2009-10-06 21:50:00,625 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() starting
+2009-10-06 21:50:00,640 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() finished
+2009-10-06 21:50:00,640 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() initializing AdsPanel
+2009-10-06 21:50:00,640 [DEBUG] AdsPanel.getInstance()
+2009-10-06 21:50:00,656 [DEBUG] Constructor AdsPanel() starting
+2009-10-06 21:50:00,671 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() starting
+2009-10-06 21:50:00,671 [DEBUG] KidMathModel.getInstance() starting
+2009-10-06 21:50:00,671 [DEBUG] com.coolisland.client.model.KidMathModel.getAdsData()
+2009-10-06 21:50:00,687 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() finished
+2009-10-06 21:50:00,703 [DEBUG] Constructor AdsPanel() finished
+2009-10-06 21:50:00,703 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() starting
+2009-10-06 21:50:00,718 [DEBUG] KidMathModel.getInstance() starting
+2009-10-06 21:50:00,718 [DEBUG] com.coolisland.client.model.KidMathModel.getAdsData()
+2009-10-06 21:50:00,734 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() finished
+2009-10-06 21:50:00,734 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() finished
+2009-10-06 21:50:00,750 [DEBUG] Constructor KidMathController() finished
+2009-10-06 21:50:00,750 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() starting
+2009-10-06 21:50:00,750 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() initializing KidMathModel
+2009-10-06 21:50:00,765 [DEBUG] KidMathModel.getInstance() starting
+2009-10-06 21:50:00,765 [DEBUG] com.coolisland.client.model.KidMathModel.initialize() starting
+2009-10-06 21:50:00,765 [DEBUG] com.coolisland.client.model.KidMathModel.initialize() finished
+2009-10-06 21:50:00,781 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() initializing NavigationController
+2009-10-06 21:50:00,781 [DEBUG] NavigationController.getInstance() starting
+2009-10-06 21:50:00,781 [DEBUG] com.coolisland.client.controller.NavigationController.initialize() starting
+2009-10-06 21:50:00,781 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,796 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,796 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 1
+2009-10-06 21:50:00,796 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,812 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,812 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,812 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 2
+2009-10-06 21:50:00,812 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,828 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,828 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,828 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 3
+2009-10-06 21:50:00,843 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,843 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,843 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,859 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 4
+2009-10-06 21:50:00,859 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,859 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,859 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,875 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 5
+2009-10-06 21:50:00,875 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,875 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,890 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,890 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 6
+2009-10-06 21:50:00,890 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,906 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,906 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,906 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 7
+2009-10-06 21:50:00,906 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,921 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,921 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,921 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 8
+2009-10-06 21:50:00,937 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,937 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:00,937 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() starting
+2009-10-06 21:50:00,953 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() linkLabel:Link 9
+2009-10-06 21:50:00,953 [DEBUG] com.coolisland.client.model.NavigationModel.addLink() finished
+2009-10-06 21:50:00,953 [DEBUG] NavigationPanel.getInstance()
+2009-10-06 21:50:00,968 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() starting
+2009-10-06 21:50:00,984 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() finished
+2009-10-06 21:50:00,984 [DEBUG] com.coolisland.client.controller.NavigationController.initialize() finished
+2009-10-06 21:50:00,984 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() initializing NavigationPanel
+2009-10-06 21:50:00,984 [DEBUG] NavigationPanel.getInstance()
+2009-10-06 21:50:01,000 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() starting
+2009-10-06 21:50:01,000 [DEBUG] com.coolisland.client.gui.NavigationPanel.initialize() finished
+2009-10-06 21:50:01,015 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() initializing AdsPanel
+2009-10-06 21:50:01,015 [DEBUG] AdsPanel.getInstance()
+2009-10-06 21:50:01,015 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() starting
+2009-10-06 21:50:01,031 [DEBUG] KidMathModel.getInstance() starting
+2009-10-06 21:50:01,031 [DEBUG] com.coolisland.client.model.KidMathModel.getAdsData()
+2009-10-06 21:50:01,046 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() finished
+2009-10-06 21:50:01,046 [DEBUG] com.coolisland.client.controller.KidMathController.initialize() finished
+2009-10-06 21:50:01,062 [DEBUG] com.coolisland.client.gui.ScreenManager.initialize()  calling KidMathController.printDebugInfo()
+2009-10-06 21:50:01,062 [DEBUG] KidMathController.getInstance() starting
+2009-10-06 21:50:01,078 [DEBUG] com.coolisland.client.controller.KidMathController.printDebugInfo() starting
+2009-10-06 21:50:01,078 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:01,078 [DEBUG] com.coolisland.client.model.NavigationModel.printDebugInfo() starting
+2009-10-06 21:50:01,093 [DEBUG] Number of navigation links:  27
+2009-10-06 21:50:01,093 [DEBUG] Link[0]: Link 1
+2009-10-06 21:50:01,093 [DEBUG] Link[1]: Link 2
+2009-10-06 21:50:01,109 [DEBUG] Link[2]: Link 3
+2009-10-06 21:50:01,109 [DEBUG] Link[3]: Link 4
+2009-10-06 21:50:01,109 [DEBUG] Link[4]: Link 5
+2009-10-06 21:50:01,125 [DEBUG] Link[5]: Link 6
+2009-10-06 21:50:01,125 [DEBUG] Link[6]: Link 7
+2009-10-06 21:50:01,125 [DEBUG] Link[7]: Link 8
+2009-10-06 21:50:01,140 [DEBUG] Link[8]: Link 9
+2009-10-06 21:50:01,140 [DEBUG] Link[9]: Link 1
+2009-10-06 21:50:01,156 [DEBUG] Link[10]: Link 2
+2009-10-06 21:50:01,156 [DEBUG] Link[11]: Link 3
+2009-10-06 21:50:01,156 [DEBUG] Link[12]: Link 4
+2009-10-06 21:50:01,156 [DEBUG] Link[13]: Link 5
+2009-10-06 21:50:01,171 [DEBUG] Link[14]: Link 6
+2009-10-06 21:50:01,203 [DEBUG] Link[15]: Link 7
+2009-10-06 21:50:01,203 [DEBUG] Link[16]: Link 8
+2009-10-06 21:50:01,203 [DEBUG] Link[17]: Link 9
+2009-10-06 21:50:01,218 [DEBUG] Link[18]: Link 1
+2009-10-06 21:50:01,218 [DEBUG] Link[19]: Link 2
+2009-10-06 21:50:01,234 [DEBUG] Link[20]: Link 3
+2009-10-06 21:50:01,234 [DEBUG] Link[21]: Link 4
+2009-10-06 21:50:01,234 [DEBUG] Link[22]: Link 5
+2009-10-06 21:50:01,250 [DEBUG] Link[23]: Link 6
+2009-10-06 21:50:01,265 [DEBUG] Link[24]: Link 7
+2009-10-06 21:50:01,265 [DEBUG] Link[25]: Link 8
+2009-10-06 21:50:01,265 [DEBUG] Link[26]: Link 9
+2009-10-06 21:50:01,281 [DEBUG] com.coolisland.client.model.NavigationModel.printDebugInfo() finished
+2009-10-06 21:50:01,281 [DEBUG] NavigationPanel.getInstance()
+2009-10-06 21:50:01,281 [DEBUG] com.coolisland.client.gui.NavigationPanel.printDebugInfo() starting
+2009-10-06 21:50:01,296 [DEBUG] Navigation Panel: 
+<TABLE style="HEIGHT: 100%" class=navigation-panel cellSpacing=3 cellPadding=0><TBODY></TBODY></TABLE>
+2009-10-06 21:50:01,296 [DEBUG] Navigation Panel has 0 widgets.
+2009-10-06 21:50:01,312 [DEBUG] NavigationModel.getInstance() starting
+2009-10-06 21:50:01,312 [DEBUG] com.coolisland.client.model.NavigationModel.getNavigationLinks() starting
+2009-10-06 21:50:01,312 [DEBUG] Number of navigation links:27
+2009-10-06 21:50:02,062 [DEBUG] Navigation Links: 
+<TABLE cellSpacing=0 cellPadding=0><TBODY>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 1</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 2</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 3</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 4</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 5</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 6</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 7</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 8</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 9</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 1</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 2</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 3</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 4</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 5</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 6</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 7</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 8</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 9</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 1</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 2</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 3</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 4</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 5</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 6</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 7</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 8</DIV></TD></TR>
+<TR>
+<TD style="VERTICAL-ALIGN: top" align=left>
+<DIV class=navigation-panel-link>Link 9</DIV></TD></TR></TBODY></TABLE>
+2009-10-06 21:50:02,109 [DEBUG] Navigation Links has 27 widgets.
+2009-10-06 21:50:02,125 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 1</DIV>
+2009-10-06 21:50:02,140 [DEBUG] 
+<DIV class=navigation-panel-link>Link 1</DIV>
+2009-10-06 21:50:02,156 [DEBUG] Element: [object]
+2009-10-06 21:50:02,156 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 2</DIV>
+2009-10-06 21:50:02,156 [DEBUG] 
+<DIV class=navigation-panel-link>Link 2</DIV>
+2009-10-06 21:50:02,171 [DEBUG] Element: [object]
+2009-10-06 21:50:02,171 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 3</DIV>
+2009-10-06 21:50:02,187 [DEBUG] 
+<DIV class=navigation-panel-link>Link 3</DIV>
+2009-10-06 21:50:02,187 [DEBUG] Element: [object]
+2009-10-06 21:50:02,203 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 4</DIV>
+2009-10-06 21:50:02,203 [DEBUG] 
+<DIV class=navigation-panel-link>Link 4</DIV>
+2009-10-06 21:50:02,218 [DEBUG] Element: [object]
+2009-10-06 21:50:02,218 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 5</DIV>
+2009-10-06 21:50:02,218 [DEBUG] 
+<DIV class=navigation-panel-link>Link 5</DIV>
+2009-10-06 21:50:02,234 [DEBUG] Element: [object]
+2009-10-06 21:50:02,234 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 6</DIV>
+2009-10-06 21:50:02,250 [DEBUG] 
+<DIV class=navigation-panel-link>Link 6</DIV>
+2009-10-06 21:50:02,250 [DEBUG] Element: [object]
+2009-10-06 21:50:02,265 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 7</DIV>
+2009-10-06 21:50:02,265 [DEBUG] 
+<DIV class=navigation-panel-link>Link 7</DIV>
+2009-10-06 21:50:02,265 [DEBUG] Element: [object]
+2009-10-06 21:50:02,281 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 8</DIV>
+2009-10-06 21:50:02,281 [DEBUG] 
+<DIV class=navigation-panel-link>Link 8</DIV>
+2009-10-06 21:50:02,296 [DEBUG] Element: [object]
+2009-10-06 21:50:02,296 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 9</DIV>
+2009-10-06 21:50:02,312 [DEBUG] 
+<DIV class=navigation-panel-link>Link 9</DIV>
+2009-10-06 21:50:02,312 [DEBUG] Element: [object]
+2009-10-06 21:50:02,328 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 1</DIV>
+2009-10-06 21:50:02,328 [DEBUG] 
+<DIV class=navigation-panel-link>Link 1</DIV>
+2009-10-06 21:50:02,343 [DEBUG] Element: [object]
+2009-10-06 21:50:02,343 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 2</DIV>
+2009-10-06 21:50:02,359 [DEBUG] 
+<DIV class=navigation-panel-link>Link 2</DIV>
+2009-10-06 21:50:02,359 [DEBUG] Element: [object]
+2009-10-06 21:50:02,359 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 3</DIV>
+2009-10-06 21:50:02,375 [DEBUG] 
+<DIV class=navigation-panel-link>Link 3</DIV>
+2009-10-06 21:50:02,375 [DEBUG] Element: [object]
+2009-10-06 21:50:02,390 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 4</DIV>
+2009-10-06 21:50:02,390 [DEBUG] 
+<DIV class=navigation-panel-link>Link 4</DIV>
+2009-10-06 21:50:02,390 [DEBUG] Element: [object]
+2009-10-06 21:50:02,406 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 5</DIV>
+2009-10-06 21:50:02,421 [DEBUG] 
+<DIV class=navigation-panel-link>Link 5</DIV>
+2009-10-06 21:50:02,421 [DEBUG] Element: [object]
+2009-10-06 21:50:02,437 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 6</DIV>
+2009-10-06 21:50:02,453 [DEBUG] 
+<DIV class=navigation-panel-link>Link 6</DIV>
+2009-10-06 21:50:02,468 [DEBUG] Element: [object]
+2009-10-06 21:50:02,484 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 7</DIV>
+2009-10-06 21:50:02,484 [DEBUG] 
+<DIV class=navigation-panel-link>Link 7</DIV>
+2009-10-06 21:50:02,500 [DEBUG] Element: [object]
+2009-10-06 21:50:02,500 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 8</DIV>
+2009-10-06 21:50:02,531 [DEBUG] 
+<DIV class=navigation-panel-link>Link 8</DIV>
+2009-10-06 21:50:02,531 [DEBUG] Element: [object]
+2009-10-06 21:50:02,546 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 9</DIV>
+2009-10-06 21:50:02,546 [DEBUG] 
+<DIV class=navigation-panel-link>Link 9</DIV>
+2009-10-06 21:50:02,562 [DEBUG] Element: [object]
+2009-10-06 21:50:02,562 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 1</DIV>
+2009-10-06 21:50:02,578 [DEBUG] 
+<DIV class=navigation-panel-link>Link 1</DIV>
+2009-10-06 21:50:02,578 [DEBUG] Element: [object]
+2009-10-06 21:50:02,578 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 2</DIV>
+2009-10-06 21:50:02,593 [DEBUG] 
+<DIV class=navigation-panel-link>Link 2</DIV>
+2009-10-06 21:50:02,593 [DEBUG] Element: [object]
+2009-10-06 21:50:02,609 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 3</DIV>
+2009-10-06 21:50:02,609 [DEBUG] 
+<DIV class=navigation-panel-link>Link 3</DIV>
+2009-10-06 21:50:02,625 [DEBUG] Element: [object]
+2009-10-06 21:50:02,625 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 4</DIV>
+2009-10-06 21:50:02,640 [DEBUG] 
+<DIV class=navigation-panel-link>Link 4</DIV>
+2009-10-06 21:50:02,640 [DEBUG] Element: [object]
+2009-10-06 21:50:02,656 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 5</DIV>
+2009-10-06 21:50:02,656 [DEBUG] 
+<DIV class=navigation-panel-link>Link 5</DIV>
+2009-10-06 21:50:02,671 [DEBUG] Element: [object]
+2009-10-06 21:50:02,671 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 6</DIV>
+2009-10-06 21:50:02,687 [DEBUG] 
+<DIV class=navigation-panel-link>Link 6</DIV>
+2009-10-06 21:50:02,687 [DEBUG] Element: [object]
+2009-10-06 21:50:02,687 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 7</DIV>
+2009-10-06 21:50:02,703 [DEBUG] 
+<DIV class=navigation-panel-link>Link 7</DIV>
+2009-10-06 21:50:02,703 [DEBUG] Element: [object]
+2009-10-06 21:50:02,718 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 8</DIV>
+2009-10-06 21:50:02,718 [DEBUG] 
+<DIV class=navigation-panel-link>Link 8</DIV>
+2009-10-06 21:50:02,734 [DEBUG] Element: [object]
+2009-10-06 21:50:02,734 [DEBUG] Widget: 
+<DIV class=navigation-panel-link>Link 9</DIV>
+2009-10-06 21:50:02,750 [DEBUG] 
+<DIV class=navigation-panel-link>Link 9</DIV>
+2009-10-06 21:50:02,750 [DEBUG] Element: [object]
+2009-10-06 21:50:02,796 [DEBUG] com.coolisland.client.gui.NavigationPanel.printDebugInfo() finished
+2009-10-06 21:50:02,812 [DEBUG] AdsPanel.getInstance()
+2009-10-06 21:50:02,812 [DEBUG] com.coolisland.client.gui.AdsPanel.printDebugInfo() starting
+2009-10-06 21:50:02,828 [DEBUG] Navigation Panel: 
+<TABLE style="WIDTH: 100%; HEIGHT: 100%" class=advertisement-panel cellSpacing=3 cellPadding=0><TBODY>
+<TR>
+<TD style="WIDTH: 100%; HEIGHT: 100%; VERTICAL-ALIGN: top" align=left>
+<DIV class=gwt-HTML>Advertisements go here</DIV></TD></TR></TBODY></TABLE>
+2009-10-06 21:50:02,828 [DEBUG] Navigation Panel has 1 widgets.
+2009-10-06 21:50:02,843 [DEBUG] Widget: 
+<DIV class=gwt-HTML>Advertisements go here</DIV>
+2009-10-06 21:50:02,843 [DEBUG] 
+<DIV class=gwt-HTML>Advertisements go here</DIV>
+2009-10-06 21:50:02,859 [DEBUG] Element: [object]
+2009-10-06 21:50:02,859 [DEBUG] com.coolisland.client.gui.AdsPanel.printDebugInfo() finished
+2009-10-06 21:50:02,859 [DEBUG] com.coolisland.client.controller.KidMathController.printDebugInfo() finished
+2009-10-06 21:50:02,875 [DEBUG] com.coolisland.client.gui.ScreenManager.initialize()  calling KidMathModel.printDebugInfo()
+2009-10-06 21:50:02,875 [DEBUG] KidMathModel.getInstance() starting
+2009-10-06 21:50:02,890 [DEBUG] com.coolisland.client.model.KidMathModel.printDebugInfo() starting
+2009-10-06 21:50:02,890 [DEBUG] Ads Panel data: 
+<DIV class=gwt-HTML>Advertisements go here</DIV>
+2009-10-06 21:50:02,890 [DEBUG] com.coolisland.client.model.KidMathModel.printDebugInfo() finished
+2009-10-06 21:50:02,906 [DEBUG] AdsPanel.getInstance()
+2009-10-06 21:50:02,937 [DEBUG] AdsPanel.getInstance()
+2009-10-06 21:50:02,937 [DEBUG] com.coolisland.client.gui.AdsPanel.draw() starting
+2009-10-06 21:50:02,937 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() starting
+2009-10-06 21:50:02,953 [DEBUG] KidMathModel.getInstance() starting
+2009-10-06 21:50:02,953 [DEBUG] com.coolisland.client.model.KidMathModel.getAdsData()
+2009-10-06 21:50:02,984 [DEBUG] com.coolisland.client.gui.AdsPanel.initialize() finished
+2009-10-06 21:50:02,984 [DEBUG] com.coolisland.client.gui.AdsPanel.draw() finished
+2009-10-06 21:50:02,984 [DEBUG] com.coolisland.client.gui.ScreenManager.initialize()  adding NavigationPanel to dockpanel
+2009-10-06 21:50:03,015 [DEBUG] NavigationPanel.getInstance()
+2009-10-06 21:50:03,203 [DEBUG] com.coolisland.client.gui.ScreenManager.initialize() finished
+2009-10-06 21:50:03,203 [DEBUG] Constructor ScreenManager() finished
+2009-10-06 21:50:03,218 [DEBUG] com.coolisland.client.gui.ScreenManager.getWidget()
+2009-10-06 21:50:03,234 [DEBUG] Number of widgets in root panel after ScreenManager(): 2
